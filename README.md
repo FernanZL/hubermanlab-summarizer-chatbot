@@ -5,7 +5,8 @@ End-to-end pipeline that downloads Huberman Lab podcast episodes, transcribes au
 ## Notebooks
 
 1. `1_HubermanLab_Summarizer.ipynb` — downloads audio and creates transcripts.  
-2. `2_HubermanLab_RAG_Chatbot.ipynb` — builds a RAG chatbot with semantic search.  
+2. `2_HubermanLab_RAG_Chatbot.ipynb` — builds a RAG chatbot with semantic search.
+3. `example_of_usage.png` — little conversation with the bot.    
 
 ## Requirements
 
